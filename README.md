@@ -18,7 +18,9 @@ In a Stroop task, participants are presented with a list of words, with each wor
 In each case, we measure the time it takes to name the ink colors in equally-sized lists. 
 Each participant will go through and record a time from each condition.
 
+
 ### Questions For Investigation
+
 
 - 1. What is our independent variable? What is our dependent variable?
 - 2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.
